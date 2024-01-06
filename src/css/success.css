@@ -1,0 +1,18 @@
+/* successpage.css */
+.success-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 20%;
+  }
+
+  h1 {
+    color: #4caf50;
+  }
+
+  p {
+    color: #333;
+  }

@@ -1,0 +1,14 @@
+.canceled-page {
+    text-align: center;
+    padding: 20px;
+    background-color: #f8d7da; /* Bootstrap's danger color */
+    border: 1px solid #f5c6cb; /* Bootstrap's danger color border */
+    color: #721c24; /* Bootstrap's danger color text */
+  }
+
+  .error-message {
+    font-weight: bold;
+    color: #721c24; /* Bootstrap's danger color text */
+  }
+
+  /* Add any additional styling as needed */
